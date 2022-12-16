@@ -20,6 +20,7 @@ torchaudio==0.11.0
 librosa==0.7.1         
 soundifle==0.10.3              
 numpy==1.19.4
+
 scipy==1.7.3
 
 Preprocessing

@@ -5,7 +5,7 @@ Implementation of "Improving Learning Objectives for Speaker Verification from t
 
 How to use?
 
-First, use have to prepare the speech dataset, utterances & speaker label 
+First, you have to prepare the speech dataset, utterances & speaker label 
 
 You can download the VoxCeleb Dataset in:
 https://www.robots.ox.ac.uk/~vgg/data/voxceleb/

@@ -1,4 +1,4 @@
-This folder contains core code implementation that is used in EEND-EM: End-to-End Neural Speaker Diarization with EM-Network
+This folder contains core code implementation that is used in EEND-EM: End-to-End Neural Speaker Diarization with EM-Network (To be published at APSIPA2024)
 
 Code is implemented based on ESPNet(https://github.com/espnet/espnet)
 
